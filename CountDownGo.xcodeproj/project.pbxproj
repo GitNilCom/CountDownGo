@@ -18,6 +18,7 @@
 		24C16D432499BC5000D7745E /* CountDownGoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 24C16D422499BC5000D7745E /* CountDownGoUITests.m */; };
 		24C16D532499BCC600D7745E /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24C16D522499BCC600D7745E /* SecondViewController.m */; };
 		24C16D562499BCF100D7745E /* CECustomCountDownGo.m in Sources */ = {isa = PBXBuildFile; fileRef = 24C16D552499BCF100D7745E /* CECustomCountDownGo.m */; };
+		24C16D582499EC3900D7745E /* CountDownGo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 24C16D572499EC3900D7745E /* CountDownGo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		24C16D522499BCC600D7745E /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		24C16D542499BCF100D7745E /* CECustomCountDownGo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CECustomCountDownGo.h; sourceTree = "<group>"; };
 		24C16D552499BCF100D7745E /* CECustomCountDownGo.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CECustomCountDownGo.m; sourceTree = "<group>"; };
+		24C16D572499EC3900D7745E /* CountDownGo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = CountDownGo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 		24C16D502499BC7B00D7745E /* CECustomCountDownGo */ = {
 			isa = PBXGroup;
 			children = (
+				24C16D572499EC3900D7745E /* CountDownGo.gif */,
 				24C16D542499BCF100D7745E /* CECustomCountDownGo.h */,
 				24C16D552499BCF100D7745E /* CECustomCountDownGo.m */,
 			);
@@ -260,6 +263,7 @@
 			files = (
 				24C16D2B2499BC4F00D7745E /* LaunchScreen.storyboard in Resources */,
 				24C16D282499BC4F00D7745E /* Assets.xcassets in Resources */,
+				24C16D582499EC3900D7745E /* CountDownGo.gif in Resources */,
 				24C16D262499BC4C00D7745E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
